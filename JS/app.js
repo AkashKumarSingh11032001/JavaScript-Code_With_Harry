@@ -18,4 +18,4 @@
 // console.log("My Salary equal to 1000");
 // }
 
-5>0? "Greater" : "Smaller";
+// 5>0? "Greater" : "Smaller";
