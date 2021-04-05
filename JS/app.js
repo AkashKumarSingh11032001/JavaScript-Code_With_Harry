@@ -19,9 +19,9 @@ let a = std.indexOf("John");
 let age1 = [33,55,67,18]
 let s_age= age.sort(age1)
 
-let fruits1 = ["Banana", "Orange", "Apple"];
-let len = fruits1.push('Mango')
-let last = fruits1.pop()
+// let fruits1 = ["Banana", "Orange", "Apple"];
+// let len = fruits1.push('Mango')
+// let last = fruits1.pop()
 
 let removedItem = fruits1.splice(pos, 1) // this is how to remove an item
 // ["Strawberry", "Orange"]
