@@ -16,8 +16,8 @@ console.log(age.length)
 let std = ["Mark", "John", "Jonas", "Jack"];
 let a = std.indexOf("John");
 
-let age1 = [33,55,67,18]
-let s_age= age.sort(age1)
+// let age1 = [33,55,67,18]
+// let s_age= age.sort(age1)
 
 // let fruits1 = ["Banana", "Orange", "Apple"];
 // let len = fruits1.push('Mango')
