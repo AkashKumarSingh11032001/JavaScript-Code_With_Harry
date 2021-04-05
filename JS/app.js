@@ -25,3 +25,15 @@ console.log(arr);
 
 // let removedItem = fruits1.splice(pos, 1) // this is how to remove an item
 // // ["Strawberry", "Orange"]
+
+// O B J E C T 
+
+let myobj = {
+    'first name': 'harry', 
+    channel: 'CodeWithHarry',
+    isActive: true,
+    marks: [1,5,3,6]
+}
+console.log(myobj)
+console.log(myobj['channel'])
+console.log(myobj.channel)
