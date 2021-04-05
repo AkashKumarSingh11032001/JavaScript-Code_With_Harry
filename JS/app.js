@@ -10,8 +10,8 @@ console.log(fruits);
 console.log(mixed);
 console.log(arr);
 
-let age = [33,55,67,18]
-console.log(age.length)
+// let age = [33,55,67,18]
+// console.log(age.length)
 
 // let std = ["Mark", "John", "Jonas", "Jack"];
 // let a = std.indexOf("John");
