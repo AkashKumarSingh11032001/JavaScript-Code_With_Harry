@@ -13,8 +13,8 @@ console.log(arr);
 let age = [33,55,67,18]
 console.log(age.length)
 
-let std = ["Mark", "John", "Jonas", "Jack"];
-let a = std.indexOf("John");
+// let std = ["Mark", "John", "Jonas", "Jack"];
+// let a = std.indexOf("John");
 
 // let age1 = [33,55,67,18]
 // let s_age= age.sort(age1)
