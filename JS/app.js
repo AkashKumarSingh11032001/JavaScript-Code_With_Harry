@@ -23,5 +23,5 @@ console.log(arr);
 // let len = fruits1.push('Mango')
 // let last = fruits1.pop()
 
-let removedItem = fruits1.splice(pos, 1) // this is how to remove an item
-// ["Strawberry", "Orange"]
+// let removedItem = fruits1.splice(pos, 1) // this is how to remove an item
+// // ["Strawberry", "Orange"]
