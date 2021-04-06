@@ -13,16 +13,16 @@ for (var i = 1; i <= 5; i++) {
 
 // For In loop
 
-var person = {name: "Harry", language: "JavaScript", age: 20};
+var person = { name: "Harry", language: "JavaScript", age: 20 };
 // Loop through all the properties in the object  
-for(var i in person) {  
-console.log( i + " = " + person[i]); 
+for (var i in person) {
+    console.log(i + " = " + person[i]);
 }
 
 // For each loop
-const  alpha = ['a', 'b', 'c'];
+const alpha = ['a', 'b', 'c'];
 for (let i = 0; i < alpha.length; i++) {
-console.log(alpha[i]);
+    console.log(alpha[i]);
 }
 
 // While Loop
@@ -31,3 +31,12 @@ while (i <= n) {
     console.log(i);
     i += 1;
 }
+
+// Do while loop
+
+let i = 1;
+let n = 100;
+do {
+    console.log(i);
+    i++;
+} while (i <= n)
